@@ -1,5 +1,8 @@
 package com.datametica.test;
-
+class asd {
+	int a;
+	
+}
 public class App {
 
 	public static void main(String[] args) {
